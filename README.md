@@ -28,11 +28,7 @@ Archetype | Mage / Necromancer  / Warrior / Warrior
 Battles | PVP / PVE
 Monster | Dragon
 
-Interfaces |
------------
-Energy |
-Fighter |
-SimpleFighter |
+Interfaces: `Energy` `Fighter` `SimpleFighter`
 
 <br/>
 
