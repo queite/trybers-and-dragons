@@ -30,9 +30,9 @@ Monster | Dragon
 
 Interfaces |
 -----------
-Energy
-Fighter
-SimpleFighter
+Energy |
+Fighter |
+SimpleFighter |
 <br/>
 
 ---
